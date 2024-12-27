@@ -53,24 +53,6 @@ The objective of this project is to analyze GoodCabs' performance across key met
 - Open the Power BI report to navigate the dashboard.
 - Use the SQL scripts to reproduce ad-hoc query results.
 
-## Installation and Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/goodcabs-performance-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd goodcabs-performance-analysis
-   ```
-3. Open the Power BI report using Power BI Desktop.
-4. Execute SQL scripts using any SQL-compatible tool with access to the dataset.
-
-## Contributing
-Contributions are welcome! If you have ideas for improvement or additional analyses, feel free to fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Contact
 For questions or suggestions, reach out to:
 - **Your Name**: your.email@example.com
