@@ -44,16 +44,11 @@ The objective of this project is to analyze GoodCabs' performance across key met
 - **SQL Scripts**: Scripts used for generating ad-hoc reports.
 - **Presentation**: A polished presentation shared with the Chief of Operations.
 
-## Access the Project Files
-- `GoodCabs_Performance_Report.pbix` for the Power BI dashboard.
-- `ad_hoc_queries.sql` for SQL scripts.
-- `presentation.pdf` for the final report presentation.
-
 ## Explore the Insights
 - Open the Power BI report to navigate the dashboard.
 - Use the SQL scripts to reproduce ad-hoc query results.
 
 ## Contact
 For questions or suggestions, reach out to:
-- **Your Name**: your.email@example.com
+- **Your Name**: Bilal Ahmed
 
