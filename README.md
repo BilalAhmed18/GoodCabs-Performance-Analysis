@@ -1,41 +1,77 @@
-# Project Overview
+# GoodCabs Performance Analysis
 
-Atliq Hardware, a leading consumer electronics company with global operations, is experiencing rapid growth. However, their reliance on Excel files for data analytics is proving to be inefficient and ineffective in generating insights.
+## Project Overview
+GoodCabs, a cab service company, has successfully established its presence in the Indian market by operating in tier-2 cities. The company supports local drivers, empowering them to earn a sustainable livelihood while delivering excellent service to passengers. As GoodCabs continues to grow, management is keen to assess performance metrics crucial for achieving ambitious 2024 targets.
 
-To remedy this, I've implemented a Power BI dashboard, offering a streamlined and effective solution to enhance data analysis and decision-making processes.
+To meet these objectives, the project involves analyzing key performance metrics, creating actionable insights, and providing an interactive dashboard to help the Chief of Operations make informed decisions.
 
-## Key Insights
+## Objective
+The objective of this project is to analyze GoodCabs' performance across key metrics and provide actionable insights to the Chief of Operations. The focus areas for the analysis include:
 
-In this project, I've broken down the complex business data into five easy-to-understand views:
+- **Trip Volume**: Measuring the total number of trips completed.
+- **Passenger Satisfaction**: Evaluating the service quality based on passenger feedback.
+- **Repeat Passenger Rate**: Analyzing the percentage of passengers who book multiple trips.
+- **Trip Distribution**: Understanding trip patterns across cities.
+- **Passenger Demographics**: Assessing the balance between new and repeat passengers.
 
-- **Finance View:** Here, we look at important numbers (KPIs) and elements of the P & L Statement. We identify the best and worst products and customers for each element of the P & L Statement.
+## Project Highlights
 
-- **Sales View and Marketing View:** We dive into how well customers and products are doing. We evaluate and visualize key figures like Net Sales and Gross Margin, making it easy to spot trends. We will also give you insights into unit economics and marketing trends.
+### 1. Data Analysis
+- Conducted an in-depth analysis of the datasets using Excel and SQL.
 
-- **Supply Chain View:** This view focuses on metrics like forecast accuracy, Net Error, ABS Error, and risk factors for customers and products. It helps you understand trends in Net error and forecast accuracy.
+### 2. Dashboard Creation
+- Designed an interactive and self-explanatory dashboard in Power BI.
 
-- **Executive View:** This one's for the big bosses! It provides essential metrics for senior executives to make decisions. We cover key data for subzones, AtliQ market share, top customers and products by revenue, and revenue breakdown by divisions and channels.
+#### Key sections include:
+- **General Overview**: Overall performance summary.
+- **Trips Analysis**: City-wise trip volume and distribution.
+- **Passenger Analysis**: Insights into demographics and satisfaction levels.
+- **Target Analysis**: Performance against monthly and yearly targets.
+- **Info Page**: Summary of report contents.
 
-## Business Terminology Mastered
+### 3. Ad-Hoc SQL Queries
+- Generated SQL reports to answer business-critical questions, including:
+  - Monthly trip distribution.
+  - Passenger satisfaction metrics by city.
+  - New vs. repeat passenger segmentation.
 
-✔️ Fiscal Year  |  ✔️ Gross Price  |  ✔️ Pre-Invoice Deduction  |  ✔️ Net Invoice Sales Amount  |  ✔️ Post-Invoice Deduction  |  ✔️ Net Sales  |  ✔️ COGS (Cost of Goods Sold)  |  ✔️ Gross Margin  |  ✔️ Operational Expense  |  ✔️ Net Profit  |  ✔️ YTD - Year to Date  |  ✔️ YTG - Year to Go  |  ✔️ Target  |  ✔️ Net Error  |  ✔️ ABS Error  |  ✔️ Forecast Accuracy  |  ✔️ Market Share  |  ✔️ Revenue Contribution
+### 4. Presentation
+- Created a compelling presentation with actionable insights and recommendations.
+- Incorporated visual elements and narrated findings for maximum impact.
 
-## Tools Utilized
+## Key Deliverables
+- **Power BI Report**: An interactive multi-page dashboard covering all aspects of the analysis.
+- **SQL Scripts**: Scripts used for generating ad-hoc reports.
+- **Presentation**: A polished presentation shared with the Chief of Operations.
 
-- ✔️ SQL
-- ✔️ Power BI Desktop
-- ✔️ Excel
-- ✔️ DAX Language
-- ✔️ DAX Studio
+## Access the Project Files
+- `GoodCabs_Performance_Report.pbix` for the Power BI dashboard.
+- `ad_hoc_queries.sql` for SQL scripts.
+- `presentation.pdf` for the final report presentation.
 
-## Skills Showcased
+## Explore the Insights
+- Open the Power BI report to navigate the dashboard.
+- Use the SQL scripts to reproduce ad-hoc query results.
 
-- ✔️ Mastery of complex DAX formulas and functions.
-- ✔️ Calculated columns
-- ✔️ Data extraction, cleaning, and transformation (ETL)
-- ✔️ Data modeling
-- ✔️ Data visualization
+## Installation and Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/goodcabs-performance-analysis.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd goodcabs-performance-analysis
+   ```
+3. Open the Power BI report using Power BI Desktop.
+4. Execute SQL scripts using any SQL-compatible tool with access to the dataset.
 
-## Experience the Live Dashboard
+## Contributing
+Contributions are welcome! If you have ideas for improvement or additional analyses, feel free to fork the repository and submit a pull request.
 
-[[https://lnkd.in/ge9rqepQ](https://lnkd.in/ge9rqepQ)](https://app.powerbi.com/view?r=eyJrIjoiNzUzZTIyMjItZDAzYi00NTE1LTk0ODMtMzFjNWEwYTk0YjljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection4edd4258365016305ee4)
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For questions or suggestions, reach out to:
+- **Your Name**: your.email@example.com
+
