@@ -68,7 +68,7 @@ JOIN dim_city ON CTE2.city_id = dim_city.city_id
 GROUP BY city_name;
 
 
--- BUSINESS REQUEST - 4: Identify Cities with Higest and Lowest New Passengers 
+-- BUSINESS REQUEST - 4: Identify Cities with Highest and Lowest New Passengers 
 
 (
     SELECT 
@@ -96,7 +96,7 @@ UNION ALL
 
 
 
--- BUSINESS REQUEST - 5: Identify Month with Higest Revenue for Each City
+-- BUSINESS REQUEST - 5: Identify Month with Highest Revenue for Each City
 
 WITH CityMonthlyRevenue AS (
     SELECT 
