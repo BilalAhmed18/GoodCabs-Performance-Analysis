@@ -31,9 +31,13 @@ The objective of this project is to analyze GoodCabs' performance across key met
 
 ### 3. Ad-Hoc SQL Queries
 - Generated SQL reports to answer business-critical questions, including:
-  - Monthly trip distribution.
-  - Passenger satisfaction metrics by city.
-  - New vs. repeat passenger segmentation.
+  - City-Level Fare and Trips Summary Report.
+  - Monthly City-Level Trips Target Performance Report.
+  - City-Level Repeat Passenger Trip Frequency Report.
+  - Identify Cities with Highest and Lowest New Passengers.
+  - Identify Month with Highest Revenue for Each City.
+  - Monthly Repeat Passenger Rate Analysis.
+  - City Repeat Passenger Rate Analysis.
 
 ### 4. Presentation
 - Created a compelling presentation with actionable insights and recommendations.
