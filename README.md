@@ -54,7 +54,7 @@ The objective of this project is to analyze GoodCabs' performance across key met
 
 ## Contact
 For questions or suggestions, reach out to:
-- **Your Name**: Bilal Ahmed
+- **Bilal Ahmed**
 - **Email**: bilalahmed.analyst@gmail.com
 
 
