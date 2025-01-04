@@ -39,6 +39,10 @@ The objective of this project is to analyze GoodCabs' performance across key met
 - Created a compelling presentation with actionable insights and recommendations.
 - Incorporated visual elements and narrated findings for maximum impact.
 
+### 5. Action Plan and Next Steps
+- A comprehensive action plan and next steps have been outlined to enhance GoodCabs' performance and achieve key targets.
+- Provided Action Plan and Next Steps for GoodCabs
+
 ## Key Deliverables
 - **Power BI Report**: An interactive multi-page dashboard covering all aspects of the analysis.
 - **SQL Scripts**: Scripts used for generating ad-hoc reports.
