@@ -55,6 +55,7 @@ The objective of this project is to analyze GoodCabs' performance across key met
 ## Explore the Insights
 - Open the Power BI report to navigate the dashboard.
 - Use the SQL scripts to reproduce ad-hoc query results.
+- Live Dashboard: https://lnkd.in/gKGzzjAt
 
 ## Contact
 For questions or suggestions, reach out to:
